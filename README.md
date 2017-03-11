@@ -1,2 +1,4 @@
-# packageweekly.github.io
-http://go.packageweekly.com/
+# Go Package Weekly
+
+Go For Your Packages
+
